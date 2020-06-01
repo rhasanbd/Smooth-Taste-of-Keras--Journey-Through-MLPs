@@ -7,11 +7,17 @@ Following problems are addressed:
 - Notebook 1: How to build a simple MLP classifier using the **Sequential API** 
   
   -- Understand how to create ANN models using Keras
+  
   -- Comparative understanding of 3 different Model APIs (Sequential, Functional, Subclassing)
+  
   -- Add layers, perform input preprocessing, add and tune optimizers, etc.
+  
   -- Visualize model architecture
+  
   -- Visualize dynamic learning curves
+  
   -- Save model checkpoints, early-stop training
+  
   -- Different ways of evaluating the model
 
 
