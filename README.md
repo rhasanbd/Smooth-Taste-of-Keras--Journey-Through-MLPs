@@ -4,7 +4,7 @@ These notebooks provide a brief introduction to the use of Keras in the context 
 
 Following problems are addressed:
 
-- Notebook 1: How to build a simple MLP classifier using the **Sequential API** 
+- Notebook 1: How to build a simple MLP classifier using the **Sequential API**?
   
   -- Understand how to create ANN models using Keras
   
@@ -21,9 +21,9 @@ Following problems are addressed:
   -- Different ways of evaluating the model
 
 
-- Notebook 2: How to perform hyperparameter tuning? 
+- Notebook 2: How to perform **hyperparameter tuning**? 
 
-- Notebook 3: How to find optimal learning rate for the Stochastic Gradient Descent (SGD) algorithm used in training the MLP? 
+- Notebook 3: How to **find optimal learning rate** for the Stochastic Gradient Descent (SGD) algorithm used in training the MLP? 
 
 - Notebook 4: How to build a simple Multi-output MLP classifier using **Functional API** and **Subclassing API**?
 
