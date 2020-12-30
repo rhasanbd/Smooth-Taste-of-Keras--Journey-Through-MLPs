@@ -27,5 +27,7 @@ Following problems are addressed:
 
 - Notebook 4: How to build a simple Multi-output MLP classifier using **Functional API** and **Subclassing API**?
 
+- Notebook 5: How to reduce overfitting and determine prediction uncertainty?
+
 
 The notebooks are partially adapted from Aurélien Géron's "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition)". 
