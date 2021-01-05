@@ -29,5 +29,15 @@ Following problems are addressed:
 
 - Notebook 5: How to reduce overfitting and determine prediction uncertainty?
 
+- Notebook 6: Provides a template for creating Dense MLP classifiers. It illustrates how to use the following techniques/tricks as needed for an experiment.
+
+    -- Batch Normalization
+
+    -- Dropout regularization
+
+    -- Early Stopping
+
+    -- Learning curve
+
 
 The notebooks are partially adapted from Aurélien Géron's "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition)". 
