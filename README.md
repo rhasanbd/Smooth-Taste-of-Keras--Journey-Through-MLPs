@@ -39,5 +39,6 @@ Following problems are addressed:
 
     -- Learning curve
 
+- Notebook 7: Multi-Task Learning using Siamese Network
 
-The notebooks are partially adapted from Aurélien Géron's "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition)". 
+Some notebooks are partially adapted from Aurélien Géron's "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition)". 
